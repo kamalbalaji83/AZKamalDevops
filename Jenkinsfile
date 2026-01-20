@@ -18,7 +18,7 @@ pipeline {
 
             steps {
 
-                echo 'This is a Test Stage'
+                echo 'This is a Test1 Stage'
 
             }
 
